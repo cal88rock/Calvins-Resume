@@ -1,0 +1,27 @@
+:root {
+    /* changed text color 09_26_23 */
+    --color1: #F7F2D4;
+    --color2: #A29C7C;
+    --color3: #5A18C9;
+    --color4: #5014B8;
+    /* blue */
+    --color5: #190934;
+}
+body {
+    background-color: var(--color1);
+    color: var(--color5);
+    font-family: sans-serif;
+}
+#skillsList{
+    columns: 3;
+}
+h1 {
+    color: var(--color4);
+    font-style: italic;
+    font-variant: small-caps;
+}
+.sectionHeader {
+    color: var(--color3);
+    font-style: italic;
+    font-variant: small-caps;
+}
