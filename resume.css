@@ -22,7 +22,7 @@ body {
     background-color: var(--color1);
     color: var(--color5);
     font-family: sans-serif;
-    paddind: 20px;
+    padding: 20px;
 }
 
 #skillsList{
