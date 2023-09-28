@@ -7,21 +7,73 @@
     /* blue */
     --color5: #190934;
 }
+
+.header-container {
+    display: flex;
+    align-items: center;  
+    gap: 10px;            
+}
+
+.header-container + p {
+    margin-top: 0px;     
+}
+
 body {
     background-color: var(--color1);
     color: var(--color5);
     font-family: sans-serif;
 }
+
 #skillsList{
-    columns: 3;
+    columns: 4;
 }
+
 h1 {
-    color: var(--color4);
+    color: var(--color5);
     font-style: italic;
     font-variant: small-caps;
+    font-size: 40px;
 }
+
 .sectionHeader {
     color: var(--color3);
     font-style: italic;
     font-variant: small-caps;
+    font-size: 30px; 
+}
+
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 1400px;
+}
+
+.flex-item {
+    flex: 0.5; 
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid var(--color4);
+    border-radius: 5px;
+}
+
+.copyright-border {
+    border: 1px solid var(--color5); 
+    padding: 5px;          
+    font-size: 0.9em;      
+}
+
+.jobTitle {
+    font-size: 20px;
+}
+
+li.jobTitle {
+    list-style-type: none;
+}
+
+.workPlace {
+    font-size: 25px;
+}
+
+.contactInfo {
+    margin-left: 20px;  
 }
