@@ -9,7 +9,7 @@ This repository contains the web project developed by Calvin Raines. It primaril
 
 ## About the Project
 
-This project showcases my skills in web development, focusing on creating user-friendly and aesthetically pleasing web designs. The repository includes various web pages and style sheets demonstrating my proficiency in HTML and CSS. More to Come!!
+This project showcases my skills in web development, focusing on creating user-friendly and aesthetically pleasing web designs. The repository includes various web pages and style sheets demonstrating my proficiency in HTML and CSS. More to Come!
 
 Feel free to explore the files and reach out if you have any questions or suggestions!
 
